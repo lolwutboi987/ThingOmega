@@ -1,0 +1,6 @@
+. filter=lfs diff=lfs merge=lfs -text
+thingomega.step filter=lfs diff=lfs merge=lfs -text
+thingomega.f3z filter=lfs diff=lfs merge=lfs -text
+*.f3z filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
