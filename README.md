@@ -6,6 +6,15 @@
 
 ThingOmega Is a CoreXY bedslinger, featuring a gantry meant to shed tons of weight and an AWD double-sheared system with liveshafts to squeeze maximum performance under a tight, $350 budget. This project was submitted as a part of hackclub’s Infill program\! In which teenagers are given $350 to build a unique printer, and if they’re able to make a nice functioning machine, they are given stipends to travel RMRRF 2026!. I had a blast last year with the infill program, creating my beloved Panda V1 printer, and showing it off at rmrrf 2025\. 
 
+## Features
+
+* 53V AWD CoreXY bed gantry, estimated at a weight of 150grams for the entire moving assembly with low-inductance LDO SUPER POWER MOTORS
+* 75MM meltzone with high-flow geometry to push insane flowrates
+* Custom-designed Dual motor extruder for maximal torque and power
+* Manufacturable from any 2-axis machine, such as waterjet, lasercutter, or cnc routers, In this case it is printed.
+* Tap-Based Z-Probing
+* Experimental Atomized evaporative cooling 
+
 ## BOM & Cost
 | Part name:                         | Cost: | Quantity: | Link:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Use:                                                                                                                                         |
 |------------------------------------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
